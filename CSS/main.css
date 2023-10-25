@@ -11,15 +11,6 @@ header{
 
 }
 
-body{
-    background-image: url(./imgs/cit.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-
-}
-
 nav{
     display: flex;
     flex-direction: row;
