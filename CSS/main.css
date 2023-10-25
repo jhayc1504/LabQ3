@@ -12,7 +12,7 @@ header{
 }
 
 body{
-    background-image: url(/imgs/cit.jpg);
+    background-image: url(./imgs/cit.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
