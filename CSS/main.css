@@ -1,0 +1,106 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #a49d6e;
+    border: 3px;
+    border-radius: 10px;
+    margin-top: 40px;
+   
+
+}
+
+body{
+    background-image: url(/images/CITed.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    margin-left: 24px;
+    font-size: 24px;
+    color: black;
+
+
+}
+
+a:hover{
+    border: 3px solid chartreuse;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #9bbf50;
+    color: white;
+     
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.par{
+    width: 75%;
+    align-items: center;
+    margin: 50px;
+
+
+}
+
+.PARAGRAPH{
+    border: #9bbf50;
+    margin-left: 45px;
+    
+
+}
+
+.CoOf{
+    background-color: #a49d6e;
+    margin-right: 55px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p{
+    text-align: justify;
+    color: white;
+}
+
+.HC{
+    background-color: #a49d6e;
+    margin-left: 45px;
+    border-radius: 10px;
+    padding: 3px;
+    
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #a49d6e;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+
+}
+
